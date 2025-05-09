@@ -1,5 +1,9 @@
 # Case Study: Power Query, Power Automate, and Power BI
 
+## Watch the Presentation:
+You can watch my full presentation video here:
+  [Watch the Video](https://youtu.be/zZmrc15tbGo)
+  
 ## Description
 This case study was a part of my interview process, where I was asked to generate my own data, combine three different tables using Power Query, automate a mail merge to customers using Power Automate, and finally visualize the data using Power BI. Below is a video of my presentation where I explain my findings and demonstrate the process.
 
@@ -10,7 +14,7 @@ The final dashboard was built using Power BI.
 
 ## 📋 Agenda
 
-The agenda provides a high-level view of the entire workflow from data creation to automation and visualization.
+A high-level view of the entire workflow from data creation to automation and visualization.
 <img width="1645" alt="Image" src="https://github.com/user-attachments/assets/41488806-be42-47bf-9a8c-654efc527a5c" />
 
 ## 🧾 Data Tables
@@ -34,10 +38,6 @@ This table contains customer information such as customer ID, name, and contact 
 - **Microsoft Power Query**: For combining and transforming data.
 - **Microsoft Power Automate**: For automating email communications with customers.
 - **Microsoft Power BI**: For creating interactive data visualizations.
-
-## Watch the Presentation:
-You can watch my full presentation video here:
-  [Watch the Video](https://youtu.be/zZmrc15tbGo)
 
 ## Summary of Steps
 1. **Data Creation**: Generated three realistic datasets for order, product price, and discount information.
